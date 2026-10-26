@@ -1,0 +1,16 @@
+{
+  "name": "freelance-scope-cli",
+  "version": "1.0.0",
+  "description": "Scan a client brief for common scope-creep red flags before you quote a fixed price. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "freelance-scope": "index.js"
+  },
+  "license": "MIT",
+  "keywords": ["freelance", "scope-creep", "proposal", "cli", "contract"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleogeos/freelance-scope-cli.git"
+  },
+  "author": "kleogeos"
+}
